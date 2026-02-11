@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "low tide",
+  "base_artist": "マリースメック",
+  "createdAt": "2026-02-11T14:44:31.751315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High Tide Low Tide",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/01_High_Tide_Low_Tide_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Low Tide Of The Night",
+      "artist": "Everything But The Girl",
+      "has_synced": true,
+      "path": "select/02_Low_Tide_Of_The_Night_Everything_But_The_Girl.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Tide or Low Tide",
+      "artist": "The Wailers",
+      "has_synced": true,
+      "path": "select/03_High_Tide_or_Low_Tide_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": true,
+      "path": "select/04_High_Tide_Or_Low_Tide_Ziggy_Marley_&_The_Melody_Makers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/05_High_Tide_Or_Low_Tide_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Ben Harper feat. Jack Johnson",
+      "has_synced": true,
+      "path": "select/06_High_Tide_Or_Low_Tide_Ben_Harper_feat._Jack_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Ben Harper & Jack Johnson",
+      "has_synced": true,
+      "path": "select/07_High_Tide_Or_Low_Tide_Ben_Harper_&_Jack_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide - Jamaican Version",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/08_High_Tide_Or_Low_Tide_-_Jamaican_Version_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High Tide or Low Tide (Jamaican Version)",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/09_High_Tide_or_Low_Tide_(Jamaican_Version)_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Low Tide",
+      "artist": "The Wonder Years",
+      "has_synced": true,
+      "path": "select/10_Low_Tide_The_Wonder_Years.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "low tide at the dryin' out facility",
+      "artist": "Lil Ugly Mane",
+      "has_synced": false,
+      "path": "select/11_low_tide_at_the_dryin'_out_facility_Lil_Ugly_Mane.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Low Tide At The Drying Out Facility",
+      "artist": "Lil Ugly Mane",
+      "has_synced": false,
+      "path": "select/12_Low_Tide_At_The_Drying_Out_Facility_Lil_Ugly_Mane.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "High Tide or Low Tide - Recorded at Spotify Studios NYC",
+      "artist": "Janelle Monáe",
+      "has_synced": false,
+      "path": "select/13_High_Tide_or_Low_Tide_-_Recorded_at_Spotify_Studios_NYC_Janelle_Monáe.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High Tide or Low Tide - Live from Spotify Studios NYC",
+      "artist": "Janelle Monáe",
+      "has_synced": false,
+      "path": "select/14_High_Tide_or_Low_Tide_-_Live_from_Spotify_Studios_NYC_Janelle_Monáe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Low Tide",
+      "artist": "Opshop",
+      "has_synced": false,
+      "path": "select/15_Low_Tide_Opshop.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "low tide",
+      "artist": "マリースメック",
+      "has_synced": false,
+      "path": "select/pl_01_low_tide_マリースメック.txt"
+    }
+  ]
+}
